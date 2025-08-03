@@ -6,7 +6,7 @@
 -------------------------------------------------------------------------------------------------------------------
 1. Vim Nedir ve Nasıl Açılır: vim dosya_adı komutu ile Vim başlatılır. Veya vim ile dosya açılmadan boş  başlatılır.
 --------------------------------------------------------------------------------------------------------------------
-3. Modlar
+2. Modlar
 - Normal Mode: Açılışta varsayılan. Hareket, silme, kopyalama yapılır.
 - Insert Mode: i, a, o gibi komutlarla girilir. Yazı yazılır.
 - Visual Mode: v ile karakter, V ile satır seçilir.
