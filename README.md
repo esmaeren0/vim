@@ -10,23 +10,23 @@ KOMUTLAR
 - Normal Mode: varsayılan mod
 - Insert Mode: i, a, o gibi komutlarla girilir. Yazı yazılır.
 - Visual Mode: (v tuşu), V ile satır seçme
-- Command Mode: (: tuşuyla girilir) , dosya kaydetme,çıkış
+  - Command mod: (: tuşuyla girilir) , dosya kaydetme,çıkış
   ----------------------------------------------------------------------------------------------------------------
 3. Insert Mode’a Geçiş
 
-- i: İmlecin soluna yaz
-- a: İmlecin sağına yaz
-- I: Satır başına yaz
-- A: Satır sonuna yaz
-- o: Alt satıra boş satır aç
-- O: Üst satıra boş satır aç
+- i: İmlecin soluna yazar
+- a: İmlecin sağına yazar
+- I: Satır başına yazar
+- A: Satır sonuna yazar
+- o: Alt satıra boş satır açar
+- O: Üst satıra boş satır açar
 
 ------------------------------------------------------------------------------  
 4. Kaydetme & Çıkma
 
 - (:w) Kaydet
 - (:q)  Çık
-- (:wq) veya ZZ: Kaydet ve çık
+- (:wq) veya (ZZ:) Kaydet ve çık
 - (:q!) Kaydetmeden çık
 -----------------------------------------------------------------------------------  
 5. Temel Hareket Komutları
