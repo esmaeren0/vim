@@ -1,8 +1,8 @@
-# vim
- using vim editor
+# VIM
+Vim using
 
  
-**	Komutlar & Açıklamalar 
+KOMUTLAR
 -------------------------------------------------------------------------------------------------------------------
 1. Vim Nedir ve Nasıl Açılır: vim dosya_adı komutu ile Vim başlatılır. Veya vim ile dosya açılmadan boş  başlatılır.
 --------------------------------------------------------------------------------------------------------------------
@@ -84,7 +84,7 @@
  ------------------------------------------------------------------------------------------- 
 13. Yeni Buffer Açmak
     
- - :e dosya.txt: Yeni dosya açar (yeni buffer olur)
+- :e dosya.txt: Yeni dosya açar (yeni buffer olur)
 - :enew: Boş buffer açar
  ---------------------------------------------------------------------------------------------- 
 14. Bufferlar Arası Geçiş
@@ -98,7 +98,7 @@
 - Bir dosyayı açtıktan sonra diğer dosyanın içeriğini eklemek için :read dosya.txt kullanılabilir
  ------------------------------------------------------------------------------------------------- 
 16. Vim’de Terminal Komutları Çalıştırma
-	- :!komut: Dış terminal komutu çalıştırır
+- :!komut: Dış terminal komutu çalıştırır
 Örnek: :!ls, :!date
 ----------------------------------------------------------------------------------------------
 17. Bölünmüş Pencereler (Splits)
@@ -111,7 +111,9 @@
 18. Tek Dosyayı Bölme	Aynı dosyayı bölünmüş pencerelerde göstermek için:
 - :split veya :vsplit (dosya adı olmadan)
 ---------------------------------------------------------------------------------------------  
-19. Yardım Alma	- :help komut: Komut hakkında yardım al
+19. Yardım Alma
+- :help komut: Komut hakkında yardım al
 Örnek: :help :wq, :help visual-mode
 -----------------------------------------------------------------------------------------------
-21. Vim'den Çıkış (Zor Durumlar)	- Esc tuşuna birkaç kez bas, sonra :q! veya :qa! ile tümünden çık
+21. Vim'den Çıkış (Zor Durumlar)
+     - Esc tuşuna birkaç kez bas, sonra :q! veya :qa! ile tümünden çık
