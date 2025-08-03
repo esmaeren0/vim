@@ -7,10 +7,10 @@ KOMUTLAR
 1. Vim Nedir ve Nasıl Açılır: vim dosya_adı komutu ile Vim başlatılır. Veya vim ile dosya açılmadan boş  başlatılır.
 --------------------------------------------------------------------------------------------------------------------
 2. Modlar
-- Normal Mode: Açılışta varsayılan. Hareket, silme, kopyalama yapılır.
+- Normal Mode: varsayılan mod
 - Insert Mode: i, a, o gibi komutlarla girilir. Yazı yazılır.
-- Visual Mode: v ile karakter, V ile satır seçilir.
-- Command Mode: : tuşuyla girilir, dosya kaydetme, çıkma gibi işler yapılır.
+- Visual Mode: (v tuşu), V ile satır seçme
+- Command Mode: (: tuşuyla girilir) , dosya kaydetme,çıkış
   ----------------------------------------------------------------------------------------------------------------
 3. Insert Mode’a Geçiş
 
@@ -24,20 +24,20 @@ KOMUTLAR
 ------------------------------------------------------------------------------  
 4. Kaydetme & Çıkma
 
-- :w: Kaydet
-- :q: Çık
-- :wq veya ZZ: Kaydet ve çık
-- :q!: Kaydetmeden çık
+- (:w) Kaydet
+- (:q)  Çık
+- (:wq) veya ZZ: Kaydet ve çık
+- (:q!) Kaydetmeden çık
 -----------------------------------------------------------------------------------  
 5. Temel Hareket Komutları
 
 - h, j, k, l: Sol, aşağı, yukarı, sağ (opsiyonel)
-- 0: Satır başına
-- ^: Satırın ilk karakterine
-- $: Satır sonuna
-- gg: Dosya başı
-- G: Dosya sonu
-- nG: n. satıra git
+- 0: Satır başına geçilir
+- ^: Satırın ilk karakterine geiçilir
+- $: Satır sonuna gidilir
+- gg: Dosya başına gidilir
+- G: Dosya sonuna gidilir
+- nG: sayısı girilen satıra gidilir
 
  ------------------------------------------------------------------------------------- 
 6. Silme İşlemleri (Delete)
