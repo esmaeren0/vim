@@ -1,3 +1,17 @@
+#Nano
+Nano, terminal tabanlı kolay bir metin editörüdür.
+echo "--------------------------------------------"
+echo "| Kısayol         | Açıklama               |"
+echo "--------------------------------------------"
+echo "| Ctrl + O        | Dosyayı kaydet         |"
+echo "| Ctrl + X        | Çıkış                  |"
+echo "| Ctrl + R        | Dosya ekle             |"
+echo "| Ctrl + W        | Dosya içinde arama     |"
+echo "| Ctrl + K        | Satırı kes             |"
+echo "| Ctrl + U        | Satırı yapıştır        |"
+echo "| Ctrl + G        | Yardım menüsünü aç     |"
+echo "| Ctrl + C        | Satır ve sütun bilgisi |"
+echo "--------------------------------------------"
 # VIM
 Vim using
 
